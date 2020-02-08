@@ -16,9 +16,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        String path = "E:\\codeGym\\testModule2\\src\\hocvien.txt";
-        String path1 = "E:\\codeGym\\testModule2\\src\\hocvien1.txt";
-        ArrayList<Student> students = new ArrayList<>();
         StudentManager studentManager = new StudentManager();
         Scanner scanner = new Scanner(System.in);
         showMenu();
@@ -26,22 +23,34 @@ public class Main {
             int choice = scanner.nextInt();
             switch (choice) {
                 case 1:
-                    studentManager.readFile(path, students);
+                    studentManager.readFile();
                     break;
                 case 2:
-                    studentManager.searchStudentById(students);
+                    studentManager.searchStudentById();
                     break;
                 case 3:
-                    studentManager.displayStudentMarch(students);
-                    break;
-                case 4:
-                    studentManager.sortStudentByMarch(students);
+                    studentManager.displayStudentMarch();
                     break;
                 case 5:
-                    studentManager.sortStudentByName(students);
+                    studentManager.displaySurNameNguyen();
                     break;
                 case 6:
-                    studentManager.writeFile(path1,students);
+                    studentManager.displayEmailFail();
+                    break;
+                case 7:
+                    studentManager.sortStudentByMarch();
+                    break;
+                case 8:
+                    studentManager.writeFileSortedMarch();
+                    break;
+                case 9:
+                    studentManager.sortStudentByName();
+                    break;
+                case 10:
+                    studentManager.writeFileSortedName();
+                    break;
+                case 11:
+                    studentManager.addStudent();
                     break;
                 case 0:
                     System.exit(0);
