@@ -169,6 +169,7 @@ public class StudentManager {
         Student newStudent = new Student(studentId, studentName, studentEmail, studentMarch);
         students.add(newStudent);
         displayStudentList();
+        writeFileStudent();
     }
 
     public void updateStudentInfoById(){
@@ -195,6 +196,7 @@ public class StudentManager {
             student.setMarch(studentMarch);
         }
         displayStudentList();
+        writeFileStudent();
     }
 
     public void deleteStudentById(){
@@ -209,6 +211,8 @@ public class StudentManager {
                 student.studentDisplay();
             }
             }
+        displayStudentList();
+        writeFileStudent();
         }
 
     public int isIdExist(String id) {
