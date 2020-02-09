@@ -1,9 +1,9 @@
-CGMD000992; Trần Kim Thường; thuongtk.bk@gmail.com;48
+CGMD001055; Bùi Thế Anh; biettuot505@gmail.com;86
 CGMD001053; Nguen Thế Anh; biettuot505@gmail.com;86
-CGMD001120; Nguyen Đinh Nhâm; nhamnd.hmu@gmail.com;55
 CGMD001123; Mạc Văn Bằng; bangmac88@gmail.com;87
+CGMD001234; Lê Văn Hoàng; hoanglv92@gmail.com;50
 CGMD001124; Bùi Xuân Huynh; huynhxuanbui@gmail.com;66
 CGMD001130; Nguyen Tùng Lâm; lam300695@gmail.com;89
-CGMD001234; Lê Văn Hoàng; hoanglv92@gmail.com;50
-CGMD001053; Bùi Thế Anh; biettuot505@gmail.com;86
-CGMD001120; An Xuân Huynh; nhamnd.hmu@gmail.com;55
+CGMD001059; ab Nguyen; biettuot505@gmail.com;86
+CGMD001120; Nguyen Đinh Nhâm; nhamnd.hmu@gmail.com;55
+CGMD000992; Trần Kim Thường; thuongtk.bk@gmail.com;48

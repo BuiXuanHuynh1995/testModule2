@@ -3,10 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="9d237f86-1fa4-4dd4-854b-32678149bd1a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testModule2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testModule2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testModule2/StudentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testModule2/StudentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testModule2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testModule2/hocvien.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testModule2/hocvien.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testModule2/sapxephoten.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testModule2/sapxephoten.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hocvien.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/hocvien.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hocvien1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sapxephoten.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sapxephoten.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -28,7 +35,7 @@
   <component name="ProjectId" id="1XTauWuFltYH3srfaRFweJVVxWV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../module2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

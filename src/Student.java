@@ -40,7 +40,7 @@ public class Student implements Serializable {
         this.email = email;
     }
 
-    public double getMarch() {
+    public int getMarch() {
         return march;
     }
 
